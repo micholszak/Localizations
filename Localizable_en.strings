@@ -1,0 +1,6 @@
+// AUTO-GENERATED
+"Something weird happened during last %s" = "Something weird happened during last %@";
+"Team A - TeamB" = "%@ - %@";
+"Team A - TeamB diff" = "%1$s - %2$s";
+"Team A - Team B ios" = "%@ - %@";
+"Number - Number" = "%d - %d";

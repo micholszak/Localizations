@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- AUTO-GENERATED -->
+<string name="something_weird">"Something weird happened during last %1$s"</string>
+<string name="team_a_b">"%1$s - %2$s"</string>
+<string name="team_a_b_diff">"%1$s - %2$s"</string>
+<string name="team_a_b_ios">"%@ - %@"</string>
+<string name="numbers">"%1$d - %2$d"</string>
+</resources>
